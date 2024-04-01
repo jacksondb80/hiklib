@@ -1,3 +1,3 @@
-module github.com/sarjsheff/hiklib
+module github.com/jacksondb80/hiklib
 
 go 1.16
